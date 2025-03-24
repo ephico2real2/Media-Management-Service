@@ -1,7 +1,7 @@
 # Media-Management-Service
 Media Management Service
 
-
+```
 Upload Manager: Handles chunked, resumable file uploads
 Processing Pipeline: Transcodes media to multiple formats/resolutions
 Streaming Engine: Delivers content via adaptive streaming
@@ -21,3 +21,5 @@ Creating the proper folder structure
 Installing all required dependencies
 Setting up MinIO, MongoDB, Redis, and RabbitMQ locally
 Configuring each service with proper environment variables
+
+```
